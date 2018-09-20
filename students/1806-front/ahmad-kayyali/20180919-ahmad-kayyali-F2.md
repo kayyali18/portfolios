@@ -1,8 +1,8 @@
-# Ahmad Kayyali - M1 Portfolio
+# Ahmad Kayyali - M2 Portfolio
 
 ## Areas of Emphasis
 
-To consistently apply myself in various projects that will test and expand my knowledge in all the front-end languages, frameworks, and libraries. I came in hoping to develop a designers eye and my computational thinking skills. I do suffer from being overwhelmed by CSS and how to set up a beautiful yet efficient webpage; and although my skill in that area has improved, I still have a long way to go.
+Developing the ability to manage larger projects that require various libraries and frameworks. To learn how to implement, design, and test applications while managing data and state with react.js. API interaction and resolving calls with the use of promises such as fetching the weather.
 
 
 ## Rubric Scores
@@ -22,104 +22,78 @@ Pending
 
 ## B: Individual Work & Projects
 
-Throughout the past month and a half, I was able to see my progress as it happened. Static Comps were my favourite because I am really keen on learning design in a proper manner. On the other hand, I had much fun with 2 Do Box because I was able to complete all the phases and I like it when my brain is tickled.
+The introduction of frameworks such as react have helped me complete projects like weatherly. 
+I am now capable of building an application that can interact with the user and an API in order to achieve a meaningful result.
 
-#### Number Guesser Game
 
-* [GitHub URL](https://github.com/kayyali18/Number-Guesser-Game)
-* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+#### (Complete Me)
+
 
 (description)
-Build a game where the user guesses a number between a desired range. Appropriate feedback is given and the range is adjusted if the user guesses correctly.
+A solid introduction to Binary trees and data nodes, complete was a well rounded project that built on the previous knowledge of classes and node traversal. 
+It is my favourite project because I was one of a few people in the class to actually come up with the algorithms for searching, retrieving, and suggesting.
 
-##### David Whitaker's Evaluation
-* [Click Here](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/ahmad-kayyali.md)
+* [GitHub URL](https://github.com/kayyali18/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-#### (Static Comp 1)
-
-* [GitHub URL](https://github.com/kayyali18/Static-Comp-1)
-* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
-
-#### (Static Comp 2)
-
-* [GitHub URL](https://github.com/kayyali18/Static-Comp-2)
-* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
-
-#### (Static Comp 1)
-
-* [GitHub URL](https://github.com/kayyali18/Static-Comp-3)
-* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 
 ## C: Group Work & Projects
 
-### Projects
+#### Game Time - Tron Classic
 
-Over the course of the module we built many applications while pairing with a  classmate.  The pairing allowed me to look at code at ways which I would never have thought of. The most challenging project was the 2 Do Box, but it was the most satisfying. 
-
-#### (Linked List)
-
-* [GitHub URL](https://github.com/marcusp619/linked-list-MP-AK)
-* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+* [GitHub URL](https://github.com/gmasterofnone/tron-classic)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
 (description)
-The linked list app allows a user to enter a website title and link that is then bookmarked allowing the user to keep track of whether that page has been read or not. A fairly straightforward project, it was a good workout that helped establish my foundations.
+Build a game of either Frogger, Tron , or Snake. Tron was an interesting challenge where class inheritance and canvas were a major learning curve. 
+A fun project, I learned a lot about how to work with code that is seperated into many modules
 
-##### Travis Rollins' Evaluation
-* [Click Here](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/mark-ahmad.md)
+##### Pamela Lovett's Evaluation
+* [Click Here](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-2/game-time/graham-ahmad.md)
 
-#### (Idea Box)
+#### Weatherly
 
-* [GitHub URL](https://github.com/Tobin-jn/idea-box-TN-AK)
-* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
-
-(description)
-The idea box app introduced us to local storage and data manipulation with JSON. A user can enter an idea that has a title and body. The idea is then stored in local storage using JSON. The idea generated was able to retain quality if it was voted up or down.
-
-##### David Whitaker's Evaluation
-* [Click Here](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/tobin-ahmad.md)
-
-#### (2 Do Box)
-
-* [GitHub URL](https://github.com/kayyali18/2DoBox-Pivot)
-* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+* [GitHub URL](https://github.com/kayyali18/weatherly-AK-JS)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
 (description)
-The 2 Do Box was a pivot off the idea box. We were asked to clone an existing repository that had buggy code and were tasked with refactoring the application. Upon completion, we had to convert the pre-existing idea box to become a fully function to-do list that can filter for results, keep track of a task's importance, and task are editable.
+The weatherly app was finally the first project that we built that had a real world application. It finally allowed me to realise that after weatherly I can nearly build anything I want.
+React is a great framework that makes life easy, and the weatherly project forced us to learn how asychronous code works with things such as state and props
 
-##### Louisa Barrett's Evaluation
-* [Click Here](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/kevin-ahmad.md)
-
+##### Pam Lovett's Evaluation
+You rock
 
 
 ## D: Professional Skills
 Gear Up is one of the main things that Turing does differently, and one of the main reasons I decided to come here. Throughout the mod we covered various topics that exposed me to ways in which I can better myself and the community I am part of.
 
 ### Gear Up
-#### (Mental Health)
+#### (Empathy and Privilege)
 
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
 
-I overstress myself; I used to a lot more though. Working in a stressful environment - a basement - and doing a lot of coding can drive one nuts. From this session onwards, I realised that I was not the only one. People here at Turing are just like me and we all go through hard times. I know I have a communtiy of people around me that are completely supportive of me; and it makes me feel good.
-#### (Debugging the Gender Gap)
+This session introduced us to the privileges that we may have over others, and it taught us that with that privilege comes empathy. It is important to realise what your are blessed with so you can do your best with it. Although many of my colleagues felt more privileged than I was, I still see myself as a priviliged elite. Most of the world's population would dream of living a life as easy as mine, even though I see my life as tough in it's own way
 
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+#### (Attention Economy)
 
-This session was fun. The tech industry is actively working towards a more equal, fair, and accepting workplace - and I am soon to be part of it. The video shown gave me interesting insights into the dilemmas that women face at work, and I hope to be someone who can be part of the change and prevent injustice.
-#### (Developer Identity)
+This session actually hada major impact on the way I live my daily and how I spend my time. The session, was informative. Since attending the seesion, I started to spend time on my own without the help of 
+my phone, laptop, or even headphones to distract me. As people of the 21st century we have become so accustomed to being stimulated that spending time on your own for just 5 minutes without any distractions has become a difficult task for most of us
 
-* [GitHub URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
 
-As a developer on the web, you're identity lives in the same place that your work is done. Employers and possible job prospects all live online, and it is up to me to sell myself as a competent, hard-working, and driven developer. I updated my Twitter, LinkedIn, and Github after the session and I aim to expand those profiles as my knowledge does.
+#### (Disruption)
+
+We all like routine, we like to follow set procedures that we have followed our lives expecting a calculated outcome. The Disruption session explained how sometimes disruptions in one's life are for the better. As a devloper, a lot of things will disrupt my flow especially in the future when I am working at a company. It is important to flow with the disruption rather than against it
 
 * [Twitter](https://twitter.com/AhmadKayyali4)
 * [LinkedIn](https://www.linkedin.com/in/ahmad-kayyali-22b33895/)
 * [Github](https://github.com/kayyali18)
+
 ## E: Community Participation
 
 ### Playing a Part
 
-During this module I went through many changes. I went from being a disruptive member of the community to actively engaged. I did a lighting talk hoping to gather support for a hackathon and managed to get the hackathon-posse off the ground. I hope to continue off this personal success and further bolster my support to the community as a whole.
+Other than a couple pairings, I spent my time this mod trying to hone my social skills. Last mod, my inability to properly socialise with others caused some unwarranted negative emotions. I hope that this mod I was able to present myself in a more acceptable manner, resulting in less conflicts with my colleagues.
 
 ------------------
 
